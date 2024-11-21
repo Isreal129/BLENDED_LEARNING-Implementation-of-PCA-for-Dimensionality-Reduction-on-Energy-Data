@@ -1,4 +1,3 @@
-# BLENDED LEARNING
 # Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
 <H3>NAME: ISREAL MOSES B</H3>
 <H3>REGISTER NO.: 212221040060</H3>
